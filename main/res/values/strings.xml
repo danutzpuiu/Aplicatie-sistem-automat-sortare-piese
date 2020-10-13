@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Sistem automat sortare culoare</string>
+    <string name="togglebutton">ToggleButton</string>
+    <string name="start_proces">Start proces</string>
+    <string name="stop_proces">Stop proces</string>
+    <string name="status_sistem_automat_sortare">Status sistem automat sortare:</string>
+    <string name="bluetooth">Bluetooth:</string>
+    <string name="off">OFF</string>
+    <string name="on">ON</string>
+    <string name="statistici_culori_sortate">Statistici culori sortate</string>
+    <string name="turn_off_bluetooth">Turn OFF BLUETOOTH</string>
+    <string name="turn_on_bluetooth">Turn ON BLUETOOTH</string>
+    <string name="ro_u">Roşu</string>
+    <string name="verde">Verde</string>
+    <string name="albastru">Albastru</string>
+    <string name="galben">Galben</string>
+    <string name="devices">Devices</string>
+    <string name="button">Button</string>
+    <string name="back">Back</string>
+    <string name="status">Status</string>
+    <string name="deconectare">Deconectare</string>
+    <string name="arata_devices">Arata devices</string>
+    <string name="_0">0</string>
+    <string name="hmsoft">HMSoft</string>
+    <string name="afi_are_statistici">Afişare statistici</string>
+    <string name="sorteaz_pies">Sortează piesă</string>
+    <string name="dispozitive_imperecheate">Dispozitive imperecheate</string>
+    <string name="porne_te_disponibilitate">Porneşte disponibilitate</string>
+    <string name="conectare_la_dispozitiv">Conectare la dispozitiv</string>
+    <string name="proces_automat">Proces Automat</string>
+    <string name="proces_automat_oprit">Proces automat oprit</string>
+    <string name="proces_automat_pornit">Proces automat pornit</string>
+</resources>
